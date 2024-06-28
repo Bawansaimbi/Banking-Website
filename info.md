@@ -5,4 +5,4 @@
 # feature_5 - Aroma Kohli
 # Feature_6 - Navya Sagar
 # Feature_7 - Navya Sangal
-# feature_8 - Bawandeep Singh
+# feature_8 - Bawandeep Singh Saimbi
